@@ -1,7 +1,7 @@
 ### Hi, I'm Penuel 👋
 
 
-Penuel is ignited for learning and teaching modern technologies. He considers himself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.
+Penuel is ignited for learning and teaching modern technologies. He considers himself a 'lifelong learner' eager to both build on his academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.
 
 Penuel is currently working as a freelance JavaScript Engineer and is always interested in a challenge. Reach out to him at penuelchudi@gmail.com to connect!
 <!--
