@@ -2,9 +2,13 @@
 
 
 I'm a JavaScript Engineer from Nigeria 🇳🇬 in love with React and Node.
-I'm currently working on my Personal website and of course
-learning ... advanced React and Node.
- I’m looking to collaborate on ... personal or open sourced projects, let me know if you need help!
+
+ I'm actively looking for my first great Web Development position. I'd love to work in the Kansas City Metro area or remotely, but I'm open to relocation. The Pacific Northwest looks so lovely!
+
+🌱    I'm working on growing and expanding my skills and knowledge through small projects.
+
+💬    
+
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
