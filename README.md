@@ -1,14 +1,9 @@
 ### Hi, I'm Penuel 👋
 
 
-I'm a JavaScript Engineer from Nigeria 🇳🇬 in love with React and Node.
+Penuel is ignited for learning and teaching modern technologies. He considers himself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.
 
- I'm actively looking for my first great Web Development position. I'd love to work in the Kansas City Metro area or remotely, but I'm open to relocation. The Pacific Northwest looks so lovely!
-
-🌱    I'm working on growing and expanding my skills and knowledge through small projects.
-
-💬    
-
+Penuel is currently working as a freelance JavaScript Engineer and is always interested in a challenge. Reach out to him at penuelchudi@gmail.com to connect!
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
