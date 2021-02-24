@@ -1,9 +1,16 @@
 ### Hi, I'm Penuel 👋
 
+ 
+I'm a JavaScript Engineer from Nigeria 🇳🇬 . I specialize in cross-platform development using technologies such as React , Node and TypeScript.
 
-Penuel is ignited for learning and teaching modern technologies. He considers himself a 'lifelong learner' eager to both build on his academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.
 
-Penuel is currently working as a freelance JavaScript Engineer and is always interested in a challenge. Reach out to him at penuelchudi@gmail.com to connect!
+With that in mind, I also have a full-stack background from working on the web as well as on the back-end, primarily using Node.JS, MongoDB and of course React.
+
+
+This is all very helpful when I find myself working alone on a project, which unfortunately happens more often than not.
+
+
+
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
