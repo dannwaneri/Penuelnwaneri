@@ -1,7 +1,7 @@
 ### Hi, I'm Penuel 👋
 
- 
-I'm a JavaScript Engineer from Nigeria 🇳🇬 . I specialize in cross-platform development using technologies such as React , Node and TypeScript.
+ I'm a JavaScript Engineer from Nigeria 🇳🇬. 
+I specialize in cross-platform development using technologies such as React , Node and TypeScript.
 
 
 With that in mind, I also have a full-stack background from working on the web as well as on the back-end, primarily using Node.JS, MongoDB and of course React.
