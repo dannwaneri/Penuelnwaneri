@@ -4,7 +4,7 @@
 I'm a JavaScript Engineer from Nigeria 🇳🇬 in love with React and Node.
 I'm currently working on my Personal website.
  I’m learning ... advanced React and Node.
-🤝 I’m looking to collaborate on ... personal or open sourced projects, let me know if you need help!
+ I’m looking to collaborate on ... personal or open sourced projects, let me know if you need help!
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
