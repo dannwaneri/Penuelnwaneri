@@ -11,7 +11,7 @@ With that in mind, I also have a full-stack background from working on the web a
 This is all very helpful when I find myself working alone on a project, which unfortunately happens more often than not.
 
 
-
+If I'm not spending long hours trying to fix bugs, I'm likely staring at charts, trading digital currencies.
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
