@@ -10,10 +10,10 @@ Two of my favorite Programming books are You Don't Know JS: Scope & Closures  by
 
 
 
-This is all very helpful when I find myself working alone on a project, which unfortunately happens more often than not.
 
+Do you know any cool open-source projects that requires my skill set?
+What books and podcasts are you reading and listening to? What are you doing to develop your software development skill? Feel free to connect and let me know!
 
-If I'm not spending long hours trying to fix bugs, I'm likely staring at charts, trading digital currencies.
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
