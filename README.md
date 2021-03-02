@@ -1,4 +1,4 @@
-### Hi, I'm Penuel 👋
+### Oh, hello there 👋
 
  I'm a JavaScript Engineer from Nigeria 🇳🇬. 
 
