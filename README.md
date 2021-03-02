@@ -1,8 +1,8 @@
 ### Oh, hello there 👋
 
- I'm a JavaScript Engineer from Nigeria 🇳🇬. 
+ 
+I once wrote a great program in Javascript. It printed "hello world" to the console. Ever since then, my code has been getting progressively better and every night when I go to bed, I calculate exactly how long it will be till I’m writing code again. 
 
-I specialize in cross-platform development using technologies such as React , Node and TypeScript.
 
 
 With that in mind, I also have a full-stack background from working on the web as well as on the back-end, primarily using Node.JS, MongoDB and of course React.
