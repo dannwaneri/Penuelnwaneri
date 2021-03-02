@@ -5,7 +5,9 @@ I once wrote a great program in Javascript. It printed "hello world" to the cons
 
 
 
-With that in mind, I also have a full-stack background from working on the web as well as on the back-end, primarily using Node.JS, MongoDB and of course React.
+I specialize in cross-platform development using technologies such as React , Node and TypeScript. I am obsessed with the idea of using software to solve practical problems and most importantly, I'm enthusiastic about growing and gaining new skills on my software development  journey . I value learning from others, genuine connections and hearing about other people's passions and how I can possibly help. 
+Two of my favorite Programming books are You Don't Know JS: Scope & Closures  by Kyle Simpson and  Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer.
+
 
 
 This is all very helpful when I find myself working alone on a project, which unfortunately happens more often than not.
