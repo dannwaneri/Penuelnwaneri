@@ -3,10 +3,6 @@
  
 I once wrote a great program. It printed "hello world" to the console. Ever since then, my code has been getting progressively better.Every night when I go to bed, I calculate exactly how long it will be till I’m writing code again. 
 
-
-
-I specialize in cross-platform development using technologies such as @reactjs , @nodejs, @Graphql and @typescript.<br>
-
 I value learning from others, genuine connections and hearing about other people's passions and how I can possibly help. 
 Two of my favorite Programming books are You Don't Know JS: Scope & Closures  by Kyle Simpson and  Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer.
 
