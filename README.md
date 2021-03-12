@@ -1,4 +1,4 @@
-### Oh, hello there 👋
+### Hi there 👋
 
  
 I once wrote a great program. It printed "hello world" to the console. Ever since then, my code has been getting progressively better.Every night when I go to bed, I calculate exactly how long it will be till I’m writing code again. 
