@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-My name is Penuel Nwaneri.
+  <h3 align="center">My name is Penuel Nwaneri.</h3>
 
+<p align="center">
 I am an independent JavaScript Engineer and a great lover of [React](https://github.com/facebook/react) and [Node](https://github.com/nodejs).Most of my work is open source and publicly available on GitHub. You can follow me on [Twitter](https://mobile.twitter.com/home) where I mostly tweet about react and fullstack technologies.
-
+</p>
 
 
 
