@@ -1,12 +1,9 @@
 ### Hi there 👋
 
- 
-I once wrote a great program. It printed "hello world" to the console. Ever since then, my code has been getting progressively better.Every night when I go to bed, I calculate exactly how long it will be till I’m writing code again. 
 
+My name is Penuel Nwaneri.
 
-I value learning from others, genuine connections and hearing about other people's passion and how I can possibly help. 
-Two of my favorite Programming books are You Don't Know JS: Scope & Closures  by Kyle Simpson and  Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer.
-
+I am an independent JavaScript Engineer and the lover of an open source JavaScript framework react.js. Most of my work is open source and publicly available on GitHub. You can follow me on Twitter where I mostly tweet about react and full stack technologies.
 
 
 
