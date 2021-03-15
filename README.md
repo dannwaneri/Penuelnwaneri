@@ -7,8 +7,8 @@ I am an independent JavaScript Engineer and a great lover of  react.js. Most of 
 
 
 
-Do you know any cool open-source projects that requires my skill set?
-What books and podcasts are you reading and listening to? What are you doing to develop your software development skill? Feel free to contact me @ penuelnwaneri@gmail.com || <a href="https://twitter.com/PenuelCodes">@PenuelCodes</a> and let me know!
+Do you know any cool open-source projects that requires my skillset?
+
 
 <!--
 **PenuelCodes/PenuelCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
