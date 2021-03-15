@@ -3,7 +3,7 @@
 
 My name is Penuel Nwaneri.
 
-I am an independent JavaScript Engineer and a great lover of an open source JavaScript framework react.js. Most of my work is open source and publicly available on GitHub. You can follow me on Twitter where I mostly tweet about react and full stack technologies.
+I am an independent JavaScript Engineer and a great lover of  react.js. Most of my work is open source and publicly available on GitHub. You can follow me on Twitter where I mostly tweet about react and full stack technologies.
 
 
 
