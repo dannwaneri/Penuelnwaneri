@@ -10,7 +10,7 @@ I am an independent JavaScript Engineer and a great lover of  react.js and node.
 
 If you happen to know any open source project,You can also find me on LinkedIn.
 
-If I'm not coding or tweeting, I'm likely looking at charts trading digital currencies.
+If I'm not coding or tweeting, I'm probably looking at charts and trading digital currencies.
 
 
 <!--
