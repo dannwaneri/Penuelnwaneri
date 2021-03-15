@@ -8,7 +8,7 @@ I am an independent JavaScript Engineer and a great lover of [React](https://git
 
 
 
-If you happen to know any open source project,You can also find me on LinkedIn.
+If you happen to know any open source project,You can also find me on [LinkedIn](https://www.linkedin.com/mwlite/in/penuel-nwaneri-8b4690195).
 
 If I'm not coding or tweeting, I'm probably looking at charts and trading digital currencies.
 
