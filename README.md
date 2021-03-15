@@ -7,7 +7,9 @@ I am an independent JavaScript Engineer and a great lover of  react.js. Most of 
 
 
 
-Do you know any cool open-source projects that requires my skillset?
+
+If you happen to know any open source project,You can also find me on LinkedIn.
+
 
 
 <!--
