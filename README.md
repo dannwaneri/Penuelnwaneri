@@ -1,16 +1,15 @@
-**Hey, I'm Penuel! 👋**
+**Hi there** 👋
+
+
+
+I am an independent JavaScript Engineer. skilled in cross platform development using technologies such as React, typescript, Nodejs , express.js, Graphql, MongoDB, firebase.
+Most of my work is open source and publicly available on GitHub.
+
+If I'm not coding or tweeting, I'm probably doing crossword puzzle.
 
 
  
 
-I am an independent JavaScript Engineer and a great lover of [React](https://github.com/facebook/react) and [Node](https://github.com/nodejs).Most of my work is open source and publicly available on GitHub. You can follow me on [Twitter](https://mobile.twitter.com/home) where I mostly tweet about react and fullstack technologies.
-
-
-
-
-If you happen to know any open source project that requires my skillset,You can find me on [LinkedIn](https://www.linkedin.com/mwlite/in/penuel-nwaneri-8b4690195).
-
-If I'm not coding or tweeting, I'm probably looking at charts and trading digital currencies.
 
 
 <!--
