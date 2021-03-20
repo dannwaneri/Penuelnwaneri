@@ -5,7 +5,7 @@
 I am an independent JavaScript Engineer. skilled in cross platform development using technologies such as React, typescript, Nodejs , express.js, Graphql, MongoDB, firebase.
 Most of my work is open source and publicly available on GitHub.
 
-If I'm not coding or tweeting, I'm probably doing crossword puzzle.
+If I'm not coding or tweeting, I'm probably reasoning out solutions to crossword puzzle.
 
 
  
