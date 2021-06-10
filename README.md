@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Penuel Nwaneri
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in cross platform development
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on accessible and inclusive projects
-- 📫 How to reach me https://www.linkedin.com/in/sebastian-spiegel/
-
+- 📫 How to reach me https://www.linkedin.com/in/penuel-nwaneri-8b4690195
 
 
  
