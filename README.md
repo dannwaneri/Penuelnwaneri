@@ -1,11 +1,9 @@
-**Hi there** 👋
+- 👋 Hi, I’m Penuel Nwaneri
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on accessible and inclusive projects
+- 📫 How to reach me https://www.linkedin.com/in/sebastian-spiegel/
 
-
-
-I'm a Software Engineer. skilled in cross platform development using technologies such as React, typescript, Nodejs , express.js, Graphql, MongoDB, firebase.
-Most of my work is open source and publicly available on GitHub.
-
-If I'm not coding or tweeting, I'm probably reasoning out solutions to a crossword puzzle.
 
 
  
