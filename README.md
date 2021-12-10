@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Penuel Nwaneri
-- 👀 I’m interested in cross platform development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on accessible and inclusive projects
-- 📫 How to reach me https://www.linkedin.com/in/penuel-nwaneri-8b4690195
+ <h1> Hi there,I’m Penuel</h1> 
+<P>I care deeply about users, performance, accessibility, and having things be functional. I am especially interested in (creative) projects that help people create things, public sector organizations and non profits. If this sounds good to you, send me an email!
+
 
 
  
