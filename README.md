@@ -1,5 +1,5 @@
  <h1> Hi there,I’m Penuel</h1> 
-<P>I care deeply about users, performance, accessibility, and having things be functional. I am especially interested in (creative) projects that help people create things, public sector organizations and non profits. If this sounds good to you, send me an email!
+<P>I derive great pleasure from working with react,node and GraphQL but most importantly I care deeply about users, performance, accessibility, and having things be functional. I am especially interested in (creative) projects that help people create things, public sector organizations and non profits. If this sounds good to you, send me an email!
 
 
 
