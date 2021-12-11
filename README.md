@@ -5,7 +5,6 @@
 <P> I care deeply about users, performance, accessibility, and having things be functional. I am especially interested in solving complex problems through data-driven processes that translate business objectives into solutions.If this sounds good to you, send me an email!
 
 
-
  
 
 
