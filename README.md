@@ -1,9 +1,7 @@
  <h1> Hi there !!</h1> 
 
-<P>Penuel Nwaneri is a  Software Engineer with expertise in React, NodeJs, MongoDB, and GraphQL. He likes solving engineering problems and believes every complicated problem can be solved with ease by breaking it down to fundamental subsets</p>
-
-<P> He care deeply about users, performance, accessibility, and having things be functional. He's especially interested in solving complex problems through data-driven processes that translate business objectives into solutions.If this sounds good to you,Feel free to throw him an email!
-
+<P>Penuel Nwaneri is a  Software Engineer with expertise in React, NodeJs, MongoDB, and GraphQL. He likes solving engineering problems and believes every complicated problem can be solved with ease by breaking it down to fundamental subsets.If this sounds good to you,Feel free to throw him an email!
+</P>
 
  
 
